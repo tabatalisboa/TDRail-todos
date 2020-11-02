@@ -1,3 +1,4 @@
+require 'support/features/sign_in'
 require 'rails_helper'
 
 feature 'User creates todo' do
